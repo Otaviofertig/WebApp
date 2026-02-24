@@ -1,11 +1,19 @@
- button {
-    background-color: aquamarine;
+header{
+    justify-content: center;
+}
 
+body {
+    background-color: rgb(55, 46, 179);
 }
 
 .foto {
+    justify-content: center;
     width: 250px;
     height: auto;
+}
+
+body {
+    
 }
 
 form {
